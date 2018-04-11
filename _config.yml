@@ -9,8 +9,8 @@ description: >
 # Your information
 email: zizztux@gmail.com
 author: SeungRyeol(Connor) Lee
-avatar: assets/images/avatar.jpg
-profile: One sentence introducing yourself.
+avatar: /assets/images/avatar.jpg
+profile: Just for fun, do it!!
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
@@ -30,7 +30,7 @@ header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     About: /about/
     Category: /category/
-    Donate: https://laobubu.net/donate.html
+#   Donate: https://laobubu.net/donate.html
 
 permalink: /archivers/:title
 plugins:
