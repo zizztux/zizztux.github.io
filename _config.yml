@@ -9,13 +9,14 @@ description: >
 # Your information
 email: zizztux@gmail.com
 author: SeungRyeol(Connor) Lee
-avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
+avatar: assets/images/avatar.jpg
 profile: One sentence introducing yourself.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
-  Email: "mailto:zizztux@gmail.com"
+  FaceBook: "https://www.facebook.com/zizztux"
   GitHub: "https://github.com/zizztux/zizztux.github.io"
+  Email: "mailto:zizztux@gmail.com"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
